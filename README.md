@@ -12,3 +12,5 @@
 8. [Семинар 8 - Алгоритмы анализа стереопар изображений](./seminars/seminar_08/Seminar_8.ipynb) **+ домашнее задание**
 9. [Семинар 9 - Методы построения оптического потока по последовательности изображений](./seminars/seminar_09/Seminar_9.ipynb) **+ домашнее задание**
 10. [Семинар 10 - Текстурный анализ изображений](./seminars/seminar_10/Seminar_10.ipynb)
+11. [Семинар 11 - Нейросетевое обнаружение объектов [Google Colab]](https://colab.research.google.com/drive/1Wii3rO3ZkuvsqPeMJ4yMKTNBRuGc4zoE?usp=sharing)
+12. [Семинар 12 - Нейросетевая семантическая сегментация [Google Colab]](https://colab.research.google.com/drive/1-WAoKPGhg4qkBlaghm1H0e9eT7QwIbl9?usp=sharing)
