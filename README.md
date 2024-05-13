@@ -15,3 +15,4 @@
 11. [Семинар 11 - Нейросетевое обнаружение объектов [Google Colab]](https://colab.research.google.com/drive/1Wii3rO3ZkuvsqPeMJ4yMKTNBRuGc4zoE?usp=sharing)
 12. [Семинар 12 - Нейросетевая семантическая сегментация [Google Colab]](https://colab.research.google.com/drive/1-WAoKPGhg4qkBlaghm1H0e9eT7QwIbl9?usp=sharing)
 13. [Семинар 13 - Трекинг [Google Colab]](https://colab.research.google.com/drive/151pMzESpwoopqdDmeOp14LiKzDFz8qUw?usp=sharing) **+ домашнее задание**
+14. [Семинар 14 - Генеративные нейросети, диффузионные модели [Google Colab]](https://colab.research.google.com/drive/1nKCbRZSxv1Y6zbYbA-Px3IVghHl-etkh?usp=sharing)
